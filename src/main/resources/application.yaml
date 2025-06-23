@@ -1,0 +1,18 @@
+server:
+    port: 8080
+
+edamam:
+  url: https://api.edamam.com/api/recipes/v2
+  app_id: c89f7fd0
+  app_key: cac18b4a73b04203ef34694419d35b89
+  account_User: PS
+
+  #encrpted credentials
+#  app_id: ENC(CpOukVRf8ZvY41GOvblS2u8KTmS/NdbFohTLNrBPDaYODIZkPP/rByeLiYFzqvRC)
+#  app_key: ENC(ZAx2SFlh9lTgmJTnqXOVytQiy0vi+dTIkPbCMBmMDQWWS1qWjB1+lMi2pMOVlhxk8PStz/h4Ay2gd2quzTBGCRs0IDmD++Jj7bj6IWxHIys=)
+#  account_User: ENC(IuUl/RHnWrpUXkwEoprDpdv1fzA4bVMxue7WQZKJmnjb6UqhD3VTF8IAaHR65C3N)
+
+documenu:
+  api_key: 1f7b2c0d8e3a4b6c9f5d8e3a4b6c9f5d
+#  api_key: ENC(WuWp3DCFYynBPQCbpfRDHvG9SSxv9mAz9Rs8MkfgwwqMbMiL/jk6TqQl7e2kBcChRmTPgEFIQT/ymCpd2qsoTDIsiwbVIwNA+FDmG61ZhwY=)
+  api_url: https://api.documenu.com/v2/restaurants/search/fields

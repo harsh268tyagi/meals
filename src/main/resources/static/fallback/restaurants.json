@@ -1,0 +1,76 @@
+[
+  {
+    "name": "The Great Burger 1",
+    "cuisineType": "Indian",
+    "address": "Noida",
+    "menuItems": [
+      "Spaghetti Carbonara",
+        "Chicken Tikka Masala",
+        "Beef Tacos",
+        "Vegetable Stir Fry",
+        "Greek Salad",
+        "Classic Cheeseburger"
+    ]
+  },
+  {
+    "name": "The Great Burger 2",
+    "cuisineType": "Indian",
+    "address": "Delhi",
+    "menuItems": [
+      "Paneer Butter Masala",
+      "Chaska Chaap",
+      "Paneer Tikka",
+      "Vegetable Biryani",
+      "Dal Makhani"
+    ]
+  },
+  {
+    "name": "The Great Burger 3",
+    "cuisineType": "American",
+    "address": "Los Angeles",
+    "menuItems": [
+      "Chinese Noodles",
+      "Paneer Butter Masala",
+      "Chaska Chaap",
+      "Momos",
+      "Vegetable Biryani"
+    ]
+  },
+  {
+    "name": "The Great Burger 4",
+    "cuisineType": "Mexican",
+    "address": "Meerut",
+    "menuItems": [
+      "Spaghetti Carbonara",
+      "Chicken Tikka Masala",
+      "Beef Tacos",
+      "Vegetable Stir Fry",
+      "Greek Salad",
+      "Classic Cheeseburger"
+    ]
+  },
+  {
+    "name": "The Great Burger 5",
+    "cuisineType": "Indian",
+    "address": "Faridabad",
+    "menuItems": [
+      "Paneer Butter Masala",
+      "Chaska Chaap",
+      "Paneer Tikka",
+      "Vegetable Biryani",
+      "Dal Makhani"
+    ]
+  },
+  {
+    "name": "Kings of Noida",
+    "cuisineType": "Indian",
+    "address": "Noida",
+    "menuItems": [
+      "Paneer Butter Masala",
+      "Chaska Chaap",
+      "Paneer Tikka Noida Special",
+      "Vegetable Biryani of Noida",
+      "Dal Makhani 12complete"
+    ]
+  }
+]

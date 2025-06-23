@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "calories": 400.44,
+    "cuisineType": "Italian",
+    "url": "https://example.com/spaghetti-carbonara"
+  },
+  {
+      "title": "Chicken Tikka Masala",
+      "calories": 500.12,
+      "cuisineType": "Indian",
+      "url": "https://example.com/chicken-tikka-masala"
+  },
+  {
+      "title": "Beef Tacos",
+      "calories": 300.12,
+      "cuisineType": "Mexican",
+      "url": "https://example.com/beef-tacos"
+  },
+  {
+      "title": "Vegetable Stir Fry",
+      "calories": 250.569,
+      "cuisineType": "Chinese",
+      "url": "https://example.com/vegetable-stir-fry"
+  },
+  {
+      "title": "Greek Salad",
+      "calories": 200.11,
+      "cuisineType": "American",
+      "url": "https://example.com/american-salad"
+  },
+
+  {
+      "title": "Classic Cheeseburger",
+      "calories": 600,
+      "cuisineType": "American",
+      "url": "https://example.com/classic-cheeseburger"
+  },
+  {
+      "title": "Paneer Butter Masala",
+      "calories": 450.11,
+      "cuisineType": "Indian",
+      "url": "https://example.com/paneer-butter-masala"
+  },
+  {
+      "title": "Chaska Chaap",
+      "calories": 360.35,
+      "cuisineType": "Indian",
+      "url": "https://example.com/chaska-chaap"
+  },
+  {
+      "title": "Paneer Tikka",
+      "calories": 300.12,
+      "cuisineType": "Indian",
+      "url": "https://example.com/paneer-tikka"
+  },
+  {
+      "title": "Vegetable Biryani",
+      "calories": 400.16,
+      "cuisineType": "Indian",
+      "url": "https://example.com/vegetable-biryani"
+  },
+  {
+      "title": "Dal Makhani",
+      "calories": 350,
+      "cuisineType": "Indian",
+      "url": "https://example.com/dal-makhani"
+  }
+]
