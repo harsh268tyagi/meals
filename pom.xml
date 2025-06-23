@@ -18,7 +18,9 @@
 		<license/>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<name>Harsh Tyagi</name>
+		</developer>
 	</developers>
 	<scm>
 		<connection/>
