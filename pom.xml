@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.assignment</groupId>
 	<artifactId>meal</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v1</version>
 	<name>Meal Recommendation</name>
 	<description>Assignment project for Spring Boot Meal Recommendation App</description>
 	<url/>

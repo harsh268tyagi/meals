@@ -21,7 +21,7 @@ This is a Spring Boot microservice that recommends top healthy recipes and match
 
 ## How It Works
 
-!# [Diagram](https://drive.google.com/file/d/1PnENvhUMW4ZAj2QBwx7NR2LXMLIjIHO7/view?usp=sharing)
+[Sequence Diagram](https://drive.google.com/file/d/1PnENvhUMW4ZAj2QBwx7NR2LXMLIjIHO7/view?usp=sharing)
 
 1. User inputs Cuisine & City
 2. Backend fetches:
@@ -54,9 +54,22 @@ edamam:
 - Git
 ### Steps
 1. VM Arguments:
+
+`Pass the following VM arguments to your IDE or when running the encryption file.`
    ```bash
    -Djasypt.encryptor.password=Harsh_PS
    ```
+``Add the encryption variables into the `application.yml` file for their respective places.
+
+## DOCKER
+### Build Docker Image
+```bash
+docker build -f src/main/java/com/assignment/meal/Dockerfile -t meal-app .
+```
+### Run Docker Container
+```bash
+docker run -p 8080:8080 meal-app
+```
 
 
 
